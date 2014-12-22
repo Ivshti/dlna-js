@@ -1,0 +1,35 @@
+{
+  "name": "dlna-js",
+  "version": "0.0.1",
+  "homepage": "https://www.popcorntime.io",
+  "description": "DLNA streaming module all in JS",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://git.popcorntime.io/stash/scm/mir/dlna-js.git"
+  },
+  "keywords": [
+    "dlna",
+    "upnp",
+    "stream",
+    "streaming",
+    "popcorntime"
+  ],
+  "author": {
+    "name": "Popcorn Time - wallydz",
+    "email": "wallydz@popcorntime.io"
+  },
+  "license": "GPL",
+  "bugs": {
+    "url": "https://git.popcorntime.io/jira/issues"
+  },
+
+  "dependencies": {
+    "upnp-mediarenderer-client": "*",
+    "xml2js": "~0.2.3"
+  },
+  "devDependencies": {
+    "mqtt": "*"
+  }
+
+}
