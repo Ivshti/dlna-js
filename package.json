@@ -25,7 +25,6 @@
   },
 
   "dependencies": {
-    "upnp-mediarenderer-client": "*",
     "xml2js": "~0.2.3"
   },
   "devDependencies": {
